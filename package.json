@@ -1,0 +1,11 @@
+{
+
+  "name": "toltia",
+
+  "scripts": {
+
+    "start": "npx serve . -p $PORT"
+
+  }
+
+}
